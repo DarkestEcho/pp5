@@ -1,0 +1,13 @@
+E:\Универ\3 курс\ПП\лб5\bin\Debug\netcoreapp3.1\лб5.exe
+E:\Универ\3 курс\ПП\лб5\bin\Debug\netcoreapp3.1\лб5.deps.json
+E:\Универ\3 курс\ПП\лб5\bin\Debug\netcoreapp3.1\лб5.runtimeconfig.json
+E:\Универ\3 курс\ПП\лб5\bin\Debug\netcoreapp3.1\лб5.runtimeconfig.dev.json
+E:\Универ\3 курс\ПП\лб5\bin\Debug\netcoreapp3.1\лб5.dll
+E:\Универ\3 курс\ПП\лб5\bin\Debug\netcoreapp3.1\лб5.pdb
+E:\Универ\3 курс\ПП\лб5\obj\Debug\netcoreapp3.1\лб5.csprojAssemblyReference.cache
+E:\Универ\3 курс\ПП\лб5\obj\Debug\netcoreapp3.1\лб5.csproj.CoreCompileInputs.cache
+E:\Универ\3 курс\ПП\лб5\obj\Debug\netcoreapp3.1\лб5.AssemblyInfoInputs.cache
+E:\Универ\3 курс\ПП\лб5\obj\Debug\netcoreapp3.1\лб5.AssemblyInfo.cs
+E:\Универ\3 курс\ПП\лб5\obj\Debug\netcoreapp3.1\лб5.dll
+E:\Универ\3 курс\ПП\лб5\obj\Debug\netcoreapp3.1\лб5.pdb
+E:\Универ\3 курс\ПП\лб5\obj\Debug\netcoreapp3.1\лб5.genruntimeconfig.cache
